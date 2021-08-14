@@ -9,6 +9,6 @@
 const JE = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Javascript, Typescript],
-  tools: [React, Node],
+  tools: [React, Node]
 }
 ```
